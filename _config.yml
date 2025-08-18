@@ -57,9 +57,9 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#000000"
+topbar_color                              : "#842BCE"
 topbar_transparency                       : 1
-topbar_title_color                        : "#842BCE"
+topbar_title_color                        : "#ffffff"
 
 cover_image                               :                     # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#ffffff"
