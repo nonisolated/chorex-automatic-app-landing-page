@@ -57,7 +57,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#842BCE"
+topbar_color                              : "#000000"
 topbar_transparency                       : 1
 topbar_title_color                        : "#ffffff"
 
@@ -78,8 +78,8 @@ app_description_color                     : "#000000"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#842BCE"
+feature_icons_background_color            : "#000000"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
