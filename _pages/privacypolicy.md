@@ -210,7 +210,7 @@ Logging categories include:
 
 If you have questions, concerns, or requests regarding this privacy policy or handling of your data, please contact us:
 
-**Email**: [dmytro.bahinskyi@gmail.com]
+**Email**: dmytro.bahinskyi@gmail.com
 
 **Response time**: we strive to respond to all requests within 14 business days.
 
