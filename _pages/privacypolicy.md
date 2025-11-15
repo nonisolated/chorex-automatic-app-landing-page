@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
 # Chorex Privacy Policy
 
 **Last Updated:** November 15, 2025
