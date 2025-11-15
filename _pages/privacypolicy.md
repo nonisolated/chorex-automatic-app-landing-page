@@ -102,7 +102,7 @@ You can view all your data in the app at any time:
 
 ### 5.2 Data Modification
 You can:
-- Change username and email in profile settings
+- Change username in profile settings
 - Edit chores and house settings
 - Manage notification settings
 
@@ -210,7 +210,7 @@ Logging categories include:
 
 If you have questions, concerns, or requests regarding this privacy policy or handling of your data, please contact us:
 
-**Email**: [YOUR_SUPPORT_EMAIL_HERE]
+**Email**: [dmytro.bahinskyi@gmail.com]
 
 **Response time**: we strive to respond to all requests within 14 business days.
 
@@ -219,8 +219,8 @@ If you have questions, concerns, or requests regarding this privacy policy or ha
 ## Quick Summary
 
 **What we collect:**
-- Email, name, password (encrypted)
-- House and chore data
+- Email, name (username)
+- Chore data
 - Push notification tokens
 
 **Why:**
